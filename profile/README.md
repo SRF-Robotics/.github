@@ -7,6 +7,7 @@ The assembly system is composed of:
 2. A Robotiq Hand-E gripper
 3. A Gocator 3520 snapshot camera
 4. Blower Nozzle with custom end adapter and camera mount (Logitech Brio 4K Webcam)
+5. Custom end tooling grippers and interchangeable bracing
 
 ### System Framework
 This system uses ROS 2 as the underlying framework for the control and component integration of the system. This is accomplished through custom bringup packages that integrated official packages with custom components. Additionally, 
