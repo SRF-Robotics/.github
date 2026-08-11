@@ -11,4 +11,4 @@ The assembly system is composed of:
 
 ### System Framework
 This system uses ROS 2 as the underlying framework for the control and component integration of the system. This is accomplished through custom bringup packages that integrated official packages with custom components. Additionally, 
-this system uses the Flexible Behavior Engine (FlexBE) for high-level control, through Hierarchical Finite State Machines (HFSMs). This package leverages developed FlexBE states which provivde general control, with custom states and behaviors specifically for SRF development. 
+this system uses the Flexible Behavior Engine (FlexBE) for high-level control, through Hierarchical Finite State Machines (HFSMs). This package leverages developed FlexBE states which provivde general control, with custom states and behaviors specifically for SRF development. OPENCV is the computer vision framework used to support the current version of the SRF Vision System. 
